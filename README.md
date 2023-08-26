@@ -11,7 +11,7 @@
 - 🌱 At the moment, I am in the process of acquiring knowledge in the field of web development.
 
 
-- 📫 How to reach me **manankhandelwal.it25@jecrc.ac.in**
+- 📫 How to reach me **manankhandelwal35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
