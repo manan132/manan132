@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/manan132/manan132/assets/118201911/f212ceb9-a5a6-4a81-aa82-28a57cdc3180)
+![MasterHead](https://github.com/manan132/manan132/assets/118201911/6deb2d70-c9fa-4f66-9bb4-1c04a4e81798)
 
 <h1 align="center">Hi 👋, I'm Manan Khandelwal</h1>
 <h3 align="center">A passionate frontend developer and focused on MEARN Stack and currently in process of enhancing knowledge.</h3>
